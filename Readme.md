@@ -1,0 +1,1 @@
+just try to  follow along and code w the video https://www.youtube.com/watch?v=pfZT6Opgy4o&list=PLWXDjno_GydhGoW8lOiQV8aRud9B9Pfll&index=6&t=474s

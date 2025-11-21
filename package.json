@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.9.3",
+    "websocket": "^1.0.35"
+  },
+  "devDependencies": {
+    "@types/websocket": "^1.0.10"
+  }
+}
